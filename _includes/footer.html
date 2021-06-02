@@ -1,0 +1,53 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          {% if site.email %}
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% endif %}
+          <li><a href="/about/">OSS Gateについて</a></li>
+          <li><a href="/workshop/report.html">ワークショップレポート</a></li>
+          <li><a href="/posts/">記事一覧</a></li>
+          <li><a href="/sponsors/">スポンサー</a></li>
+          <li><a href="/code-of-conduct/">行動規範</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+          <li><a href="https://oss-gate.doorkeeper.jp/">Doorkeeper</a></li>
+          <li><a href="https://gitter.im/oss-gate/general/">Gitter</a></li>
+          <li><a href="https://www.youtube.com/channel/UCko4k40eSvs_dchzcLCsJ4A">YouTube</a></li>
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+          <li><a href="{{ "/feed.xml" }}">RSSを購読</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <ul class="social-media-list">
+          <li>{% include icon-twitter.html %}<a href="https://twitter.com/hashtag/oss_gate?src=hash">#oss_gate</a></li>
+        </ul>
+        <a class="twitter-timeline" href="https://twitter.com/hashtag/oss_gate" data-widget-id="812700263521755137" data-chrome="noheader nofooter" data-width=”300″>#oss_gate のツイート</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div>
+    </div>
+    <p>This site is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+    </p>
+    <p>Copyright 2015-{{ site.time | date: "%Y" }} OSS Gate</p>
+
+  </div>
+
+</footer>
