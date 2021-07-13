@@ -15,4 +15,4 @@ OSS Gateオンボーディングはより深くOSS開発に取り組み始めた
 
 ## 過去の開発対象
 
-  * [Apache Arrow Flight GLibの開発](https://oss-gate.github.io/on-boarding/proposals/2021-07/kou-apache-arrow-flight-glib/)
+  * [Apache Arrow Flight GLibの開発]({{ site.baseurl }}{% link proposals/2021-07/kou-apache-arrow-flight-glib/index.md %})
