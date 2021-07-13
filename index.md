@@ -11,8 +11,8 @@ OSS Gateオンボーディングはより深くOSS開発に取り組み始めた
 
 ## 募集中の開発対象
 
-  * [2021-08](proposals/2021-08/)
+  * [第1回 OSS Gateオンボーディング](proposals/2021-08/)*【新人（OSS開発に取り組んでみたい人）募集中】*
 
 ## 過去の開発対象
 
-  * [2021-07](proposals/2021-07/)
+  * [Apache Arrow Flight GLibの開発](https://oss-gate.github.io/on-boarding/proposals/2021-07/kou-apache-arrow-flight-glib/)
