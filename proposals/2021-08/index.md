@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 第1回 OSS Gateオンボーディング
+title: 2021-08開始予定の募集要項
 ---
 
 ## 第1回OSS Gateオンボーディング 開催中！
