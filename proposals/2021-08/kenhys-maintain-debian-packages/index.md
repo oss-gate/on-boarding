@@ -3,15 +3,15 @@ layout: page
 title: Debianパッケージのメンテナンスやそれを支えるシステムの開発
 ---
 
-## ステータス
+## <span id="status">ステータス</span>
 
 募集中
 
-## 先輩の名前
+## <span id="mentor">先輩の名前</span>
 
 林健太郎
 
-## 開発対象の概要
+## <span id="overview">開発対象の概要</span>
 
 キーワード：Debianプロジェクト debパッケージ mentors.debian.net
 
@@ -38,7 +38,7 @@ Debianパッケージのお作法はあまりよく知らないが、継続的�
 
 mentors.debian.netは、Debianパッケージを一時的にアップロードしてスポンサーを探したりするのによく使われているサイトです。Djangoで実装されているのでPythonやWebアプリに興味がある場合におすすめです。
 
-## 対象OSSの開発に参加することで新人が得られること
+## <span id="merit">対象OSSの開発に参加することで新人が得られること</span>
 
 * Debianプロジェクトに関する理解(A・B・Cコース共通)
   * Debianプロジェクトがどのように運営されているのかや、パッケージのメンテナンスがどのように行われているのかを理解する
@@ -53,7 +53,7 @@ mentors.debian.netは、Debianパッケージを一時的にアップロード�
 
 ITPやRFSといった用語のより正確な説明については[略語の解説](https://www.debian.or.jp/community/devel/abbreviation.html)を参照してください。
 
-## 期間終了時に新人に期待すること
+## <span id="expectation">期間終了時に新人に期待すること</span>
 
 ### Aコース: 新規Debianパッケージング作業
 
@@ -75,7 +75,7 @@ ITPやRFSといった用語のより正確な説明については[略語の解�
 * mentors.debian.netの概要やどのように動作しているかの理解を深め、Cコースで得た知見をもとにissueに取り組める
   * 例: https://salsa.debian.org/mentors.debian.net-team/debexpo/-/issues に登録されている未着手のIssueを相談しながら継続的に進められる
 
-## 対象OSSと先輩の関わり
+## <span id="about-mentor">対象OSSと先輩の関わり</span>
 
 私は2018年からDebianメンテナーになり、2020年からはDebian開発者として活動しています。
 最近は[東京エリア・関西合同Debian勉強会](https://tokyodebian-team.pages.debian.net/)によく参加しています。
@@ -85,7 +85,7 @@ ITPやRFSといった用語のより正確な説明については[略語の解�
 
 mentors.debian.netの改善に関しては、まだ[salsa](https://salsa.debian.org/mentors.debian.net-team/debexpo/)にリポジトリが移転するまえにいくつか成果を取り込んでもらっています。
 
-## 進め方
+## <span id="plan">進め方</span>
 
   * 2021-07-31(土)
     * 募集締め切り
@@ -133,7 +133,7 @@ mentors.debian.netの改善に関しては、まだ[salsa](https://salsa.debian.
 期間内にAコースではスポンサーアップロードまで完了すること、Bコースではbugs.debian.orgあるいはsalsaへのパッチの投稿が終わっていること、CコースではMerge requestが出せると
 よい進め方にしたいと考えています。
 
-## 応募の際に考えておいて欲しい事
+## <span id="requirement">応募の際に考えておいて欲しい事</span>
 
 初回のWebミーティングで具体的に取り組む内容を相談しながら決めますが、事前にいくつかやりたいことを考えておいてもらえると
 内容をすんなり決められるのでよさそうです。応募の際に教えてもらえると助かります。
@@ -147,20 +147,20 @@ mentors.debian.netの改善に関しては、まだ[salsa](https://salsa.debian.
 * Cコース
   * https://salsa.debian.org/mentors.debian.net-team/debexpo/-/issues をみて興味のあるissueをリストアップする
 
-## 支援期間
+## <span id="period">支援期間</span>
 
 2021-08-10/2021-09-28
 
-## 必要な報酬
+## <span id="reward">必要な報酬</span>
 
 支援期間中に約2日(18時間)分の有給稼働。
 
-## 募集期間
+## <span id="application-period">募集期間</span>
 
 * 2021-07-31(土) 23:59:59 (JST)まで。
 * 2021-08-02(月)に選考・連絡。次週の初回Webミーティング日程調整。
 
-## 応募方法
+## <span id="how-to-apply">応募方法</span>
 
 下記事項を記載の上`on-boarding@oss-gate.org`にメールでご応募ください。
 
