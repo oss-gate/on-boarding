@@ -11,8 +11,8 @@ OSS Gateオンボーディングはより深くOSS開発に取り組み始めた
 
 ## 募集中の開発対象
 
-  * [2021-08](proposals/2021-08/)
+  * 第1回（2021-07-31まで募集中）：[Debianパッケージのメンテナンスやそれを支えるシステムの開発]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %})*【新人（継続的に対象のOSSの開発に参加したい人）募集中】*
 
 ## 過去の開発対象
 
-  * [2021-07](proposals/2021-07/)
+  * [Apache Arrow Flight GLibの開発]({{ site.baseurl }}{% link proposals/2021-07/kou-apache-arrow-flight-glib/index.md %})

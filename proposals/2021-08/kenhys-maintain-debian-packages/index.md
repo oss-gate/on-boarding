@@ -159,3 +159,14 @@ mentors.debian.netの改善に関しては、まだ[salsa](https://salsa.debian.
 
 * 2021-07-31(土) 23:59:59 (JST)まで。
 * 2021-08-02(月)に選考・連絡。次週の初回Webミーティング日程調整。
+
+## 応募方法
+
+下記事項を記載の上`on-boarding@oss-gate.org`にメールでご応募ください。
+
+  * 名前（GitHubのIDなどOSS Gateオンボーディング内で困らないものであれば本名でなくても構いません。
+  * 対象募集要項のURL：{{ site.url }}{{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %}
+  * 応募動機
+  * 現時点での自分のOSS開発に関する知識・経験
+  * 活動予定時間
+  * どこでこの活動を知ったか
