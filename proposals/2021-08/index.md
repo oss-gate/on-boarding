@@ -3,26 +3,4 @@ layout: page
 title: 2021-08開始予定の募集要項
 ---
 
-## 第1回OSS Gateオンボーディング 開催中！
-
-### 開催概要
-* 先輩（開発対象）の募集：終了
-* スポンサー:　[株式会社クリアコード](https://www.clear-code.com/)　
-* 新人（OSS開発に深くかかわってみたい人）の募集：<b> 募集中 </b> <br>
-参加希望の方は　on-boarding@oss-gate.org　 まで下記事項を記載の上ご応募ください。
-    * 名前（GitHubのIDなどOSS Gateオンボーディング内で困らないものであれば本名でなくても構いません。
-    * 対象募集要項
-    * 応募動機
-    * 現時点での自分のOSS開発に関する知識・経験
-    * 活動予定時間
-    * どこでこの活動を知ったか
-    
-　　応募を頂戴後、選考の上ご連絡いたします。（8月2日(月)ごろ予定）
-　　
-* スケジュール
- * 応募締切予定 :　2021年7月31日（土）
- * 開発開始予定 :　2021年8月10日（火）
- * 開発終了予定 :  2021年10月5日（火）
-
-## 募集要項詳細
-* [Debianパッケージのメンテナンスやそれを支えるシステムの開発](https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/)
+  * [Debianパッケージのメンテナンスやそれを支えるシステムの開発](https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/)
