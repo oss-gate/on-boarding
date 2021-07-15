@@ -171,13 +171,32 @@ mentors.debian.netの改善に関しては、まだ[salsa](https://salsa.debian.
   * 現時点での自分のOSS開発に関する知識・経験
   * 活動予定時間
   * どこでこの活動を知ったか
-  
-*応募例*
-  * 名前:　sample John
-  * 対象募集要項のURL：https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/
-  * 応募動機:　オープンソースの　OS開発に興味があったから
-  * 募集対象のA～Cのどの開発をやってみたいか：　まだ流れ自体にも慣れていないのでAの基本からやってみたいです。
-  * 現時点での自分のOSS開発に関する知識・経験：　普段OSSを使っていて、不具合に遭遇したときに、その不具合を対象OSSに報告したことがある。（PRすればいいことは知っている。）
-  * 活動予定時間：　一日2時間くらい。具体的に聞いたら変わるかもしれません。
-  * 知ったきっかけ: Debianメンテナーの人のツイート
-  
+
+## <span id="application-example">応募例</span>
+
+```text
+To: on-boarding@oss-gate.org
+Subject: 応募：Debianパッケージのメンテナンスやそれを支えるシステムの開発
+
+名前:
+出部羅 伊庵
+
+対象募集要項のURL:
+https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/
+
+応募動機:
+オープンソースのOS開発に興味があったから
+
+募集対象のA～Cのどの開発をやってみたいか:
+まだ流れ自体にも慣れていないのでAの基本からやってみたいです。
+
+現時点での自分のOSS開発に関する知識・経験:
+普段OSSを使っていて、不具合に遭遇したときに、その不具合を
+対象OSSに報告したことがある。（PRすればいいことは知っている。）
+
+活動予定時間:
+一日2時間くらい。具体的に聞いたら変わるかもしれません。
+
+知ったきっかけ:
+Debianメンテナーの人のツイート
+```
