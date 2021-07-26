@@ -13,7 +13,7 @@ title: debパッケージのメンテナンスやそれを支えるシステム�
 
 ## <span id="overview">開発対象の概要</span>
 
-キーワード：Debian/Ubuntuプロジェクト debパッケージ mentors.debian.net
+キーワード：Debianプロジェクト Ubuntuプロジェクト debパッケージ mentors.debian.net
 
 [Debian](https://www.debian.org/)はコミュニティーベースで開発されているLinuxディストリビューションの1つです。
 数多くのパッケージが使えるようになっているのは、Debian開発者だけでなく、コントリビューターやメンテナーといったDebianプロジェクトに関わるたくさんの人の成果によるものです。
