@@ -200,3 +200,11 @@ https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-
 知ったきっかけ:
 Debianメンテナーの人のツイート
 ```
+
+## <span id="how-to-inquiry">問い合わせ方法</span>
+
+興味はあるけど応募の障害がある場合は`on-boarding@oss-gate.org`にメールでご相談ください。OSS Gateオンボーディングは継続的に開発に参加する人をできるだけ増やしたいので一緒に解決したいです！たとえば、次のような障害があって応募できないでいる場合はご相談ください。
+
+  * 想定支援期間だと都合が悪いのでずらせないか
+  * ○○ができるようになりたいがそれは実現できそうか
+  * ○○で困っている
