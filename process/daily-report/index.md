@@ -34,7 +34,7 @@ OSS Gateオンボーディングの主要なプロセスは新人と先輩との
 
 できるだけ手間を書けずに目的を実現するためにテンプレートを用意します。
 
-持続的に参照可能にするため、書いた日報は`https://github.com/oss-gate/on-boarding/tree/main/proposals/${期間}/${募集要項ID}/daily-report-${ID}.md`にpushします。たとえば、 https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/ の先輩が書く日報は https://github.com/oss-gate/on-boarding/tree/main/proposals/2021-08/kenhys-maintain-debian-packages/daily-report-kenhys.md にpushします。
+持続的に参照可能にするため、書いた日報は`https://github.com/oss-gate/on-boarding/tree/main/proposals/${期間}/${募集要項ID}/daily-report-${ID}.md`にpushします。たとえば、 https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/ の先輩が書く日報は https://github.com/oss-gate/on-boarding/tree/main/proposals/2021-08/kenhys-maintain-debian-packages/daily-report-kenhys.md にpushします。新人・先輩は https://github.com/oss-gate/on-boarding/ にpushする権限があるので直接pushできます。
 
 テンプレートは次の通りです。今後、OSS Gateオンボーディングを実施した知見を活かしてテンプレートの中身は改善予定です。
 
