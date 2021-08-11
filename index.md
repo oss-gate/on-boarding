@@ -11,7 +11,7 @@ OSS Gateオンボーディングはより深くOSS開発に取り組み始めた
 
 ## 募集中の開発対象
 
-  * 第1回（選考中）：[debパッケージのメンテナンスやそれを支えるシステムの開発]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %})
+  * 第1回（進行中）：[debパッケージのメンテナンスやそれを支えるシステムの開発]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %})
 
 ## 過去の開発対象
 
