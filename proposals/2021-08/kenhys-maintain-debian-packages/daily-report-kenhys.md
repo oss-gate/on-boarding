@@ -7,7 +7,64 @@ title: 日報 - kenhys
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
 
-https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992610
+## 2021-08-22
+
+### やったこと
+
+* 先にプロジェクトを作成し@sivchariさんを招待しておいた issueも有効にしておいた
+  * https://salsa.debian.org/go-team/packages/slack-term
+  * https://salsa.debian.org/go-team/packages/slack-term/-/issues
+  * https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack
+  * https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues
+* 全体のTODOをメモしておいた
+  * https://salsa.debian.org/go-team/packages/slack-term/-/issues/1
+
+### よかったこと
+
+  * とくになし
+
+### 気になったこと
+
+  * termuiどうあつかうのが適切だろうか
+
+### こうすればもっとよくなるかも
+
+  * とくになし
+
+### その他
+
+  * とくになし
+
+### 日報の使用時間
+
+5分
+
+## 2021-08-21
+
+### やったこと
+
+* https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992610
+  * dh-make-golangのバグ報告をした
+
+### よかったこと
+
+  * とくになし
+
+### 気になったこと
+
+  * dh-make-golangのプロジェクトと雛形どうしようか
+
+### こうすればもっとよくなるかも
+
+  * とくになし
+
+### その他
+
+  * とくになし
+
+### 日報の使用時間
+
+5分
 
 ## 2021-08-18
 
