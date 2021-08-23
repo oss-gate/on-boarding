@@ -7,6 +7,37 @@ title: 日報 - kenhys
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
 
+https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992610
+
+## 2021-08-18
+
+### やったこと
+
+* https://lists.debian.org/debian-go/2021/08/msg00049.html
+  * RoleをMaintainerにしてもらうように調整した 
+* https://github.com/oss-gate/on-boarding/issues/20
+  * 次回の予定を立てた
+
+### よかったこと
+
+  * とくになし
+
+### 気になったこと
+
+  * とくになし
+
+### こうすればもっとよくなるかも
+
+  * とくになし
+
+### その他
+
+  * とくになし
+
+### 日報の使用時間
+
+5分
+
 ## 2021-08-17
 
 ### やったこと
