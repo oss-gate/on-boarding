@@ -7,6 +7,126 @@ title: 日報 - kenhys
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
 
+## 2021-08-24
+
+### やったこと
+
+* 現状の確認
+  * GPG鍵はmentors.d.nに登録済みとのこと
+  * https://salsa.debian.org/go-team/packages/golang-github-lithammer-fuzzysearch のPRレビューとマージ
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992838 fuzzysearchのITPのアドバイス
+  * gbpの設定を説明した lintianとの組み合わせ方法も教えた
+  * gbp buildpackageでpbuilderが使われない問題のデバッグ
+
+### よかったこと
+
+  * fuzzysearchのITPまですすんだ
+  * fuzzysearchのパッケージの体裁をいい感じにする作業が進んだ
+
+### 気になったこと
+
+  * gbpの環境の整え方は調べておいたほうがよかった
+
+### こうすればもっとよくなるかも
+
+  * 実際に作業しているVPSにアクセスできるようにしてもらったほうがいいかもしれない
+
+### その他
+
+  * 老化のせいか画面共有してもらった文字が小さくて読めない
+
+### 日報の使用時間
+
+5分
+
+## 2021-08-22
+
+### やったこと
+
+* 先にプロジェクトを作成し@sivchariさんを招待しておいた issueも有効にしておいた
+  * https://salsa.debian.org/go-team/packages/slack-term
+  * https://salsa.debian.org/go-team/packages/slack-term/-/issues
+  * https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack
+  * https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues
+* 全体のTODOをメモしておいた
+  * https://salsa.debian.org/go-team/packages/slack-term/-/issues/1
+
+### よかったこと
+
+  * とくになし
+
+### 気になったこと
+
+  * termuiどうあつかうのが適切だろうか
+
+### こうすればもっとよくなるかも
+
+  * とくになし
+
+### その他
+
+  * とくになし
+
+### 日報の使用時間
+
+5分
+
+## 2021-08-21
+
+### やったこと
+
+* https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992610
+  * dh-make-golangのバグ報告をした
+
+### よかったこと
+
+  * とくになし
+
+### 気になったこと
+
+  * dh-make-golangのプロジェクトと雛形どうしようか
+
+### こうすればもっとよくなるかも
+
+  * とくになし
+
+### その他
+
+  * とくになし
+
+### 日報の使用時間
+
+5分
+
+## 2021-08-18
+
+### やったこと
+
+* https://lists.debian.org/debian-go/2021/08/msg00049.html
+  * RoleをMaintainerにしてもらうように調整した 
+* https://github.com/oss-gate/on-boarding/issues/20
+  * 次回の予定を立てた
+
+### よかったこと
+
+  * とくになし
+
+### 気になったこと
+
+  * とくになし
+
+### こうすればもっとよくなるかも
+
+  * とくになし
+
+### その他
+
+  * とくになし
+
+### 日報の使用時間
+
+5分
+
 ## 2021-08-17
 
 ### やったこと
