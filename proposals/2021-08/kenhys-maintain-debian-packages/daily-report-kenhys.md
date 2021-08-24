@@ -7,6 +7,38 @@ title: 日報 - kenhys
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
 
+## 2021-08-24
+
+### やったこと
+
+* 現状の確認
+  * GPG鍵はmentors.d.nに登録済みとのこと
+  * https://salsa.debian.org/go-team/packages/golang-github-lithammer-fuzzysearch のPRレビューとマージ
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992838 fuzzysearchのITPのアドバイス
+  * gbpの設定を説明した lintianとの組み合わせ方法も教えた
+  * gbp buildpackageでpbuilderが使われない問題のデバッグ
+
+### よかったこと
+
+  * fuzzysearchのITPまですすんだ
+  * fuzzysearchのパッケージの体裁をいい感じにする作業が進んだ
+
+### 気になったこと
+
+  * gbpの環境の整え方は調べておいたほうがよかった
+
+### こうすればもっとよくなるかも
+
+  * 実際に作業しているVPSにアクセスできるようにしてもらったほうがいいかもしれない
+
+### その他
+
+  * 老化のせいか画面共有してもらった文字が小さくて読めない
+
+### 日報の使用時間
+
+5分
+
 ## 2021-08-22
 
 ### やったこと
