@@ -8,6 +8,12 @@ title: debパッケージのメンテナンスやそれを支えるシステム�
 進行中。<br>
 ご応募いただきました皆様ありがとうございました。
 
+### 日報
+
+  * [kenhys]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/daily-report-kenhys.md %})
+  * [sivchari]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/daily-report-sivchari.md %})
+  * [yoshimotoyuk]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/daily-report-yoshimotoyuk.md %})
+
 ## <span id="mentor">先輩の名前</span>
 
 林健太郎
@@ -189,7 +195,7 @@ Subject: 応募：debパッケージのメンテナンスやそれを支える�
 出部羅 伊庵
 
 対象募集要項のURL:
-https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/
+{{ site.url }}{{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %}
 
 応募動機:
 オープンソースのOS開発に興味があったから
