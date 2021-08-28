@@ -13,10 +13,10 @@ title: 日報 - kenhys
 
 * 現状の確認
   * GPG鍵はmentors.d.nに登録済みとのこと
-  * https://salsa.debian.org/go-team/packages/golang-github-lithammer-fuzzysearch のPRレビューとマージ
-  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992838 fuzzysearchのITPのアドバイス
-  * gbpの設定を説明した lintianとの組み合わせ方法も教えた
-  * gbp buildpackageでpbuilderが使われない問題のデバッグ
+* https://salsa.debian.org/go-team/packages/golang-github-lithammer-fuzzysearch のPRレビューとマージ
+* https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992838 fuzzysearchのITPのアドバイス
+* gbpの設定を説明した lintianとの組み合わせ方法も教えた
+* gbp buildpackageでpbuilderが使われない問題のデバッグ
 
 ### よかったこと
 
