@@ -6,6 +6,35 @@ title: 日報 - sivchari
 <!-- ↑の${ID}は自分のGitHubのIDに置き換える。例：日報 - kenhys -->
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
+## 2021-09-02
+
+### やったこと
+
+  * 各packageのitp
+  * package名についてのissue
+  * 各packageへのissue
+  * gbp buildpackage --git-ignore-newのbuildとわかる範囲のwarnの修正
+  * user add
+
+### よかったこと
+
+  * やった内容が理解できてる
+
+### こうすればもっとよくなるかも
+
+  * とくになし
+
+### その他
+
+  * notificatorがdh-make-golangで作成できない->go.modがないから？またはdh-make-golangのbug
+  * slackがbuildでtestのfailでコケる
+  * termuiのnamingが正しいかわからないので一旦ストップ
+  * slack-termはITPまで完了
+  * 一旦全部の進められるところまで完了
+
+### 日報の使用時間
+
+5分
 
 ## 2021-08-31
 
