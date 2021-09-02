@@ -7,6 +7,44 @@ title: 日報 - kenhys
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
 
+## 2021-09-02
+
+### やったこと
+
+* https://salsa.debian.org/go-team/packages/golang-github-0xax-notificator/-/issues/2
+  * dh-make-golang 0.5.0を使っていなのが原因なのでその旨コメント
+* https://salsa.debian.org/go-team/packages/termui/-/issues/3
+  * プロジェクト名が正しくない、はそのとおり。ただリネームするにしてもどっちを採用するかは決めないといけない
+* https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/1
+  * ITPのレビューをした
+* https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/2
+  * テストに関してコメント
+* https://salsa.debian.org/go-team/packages/slack-term/-/merge_requests/1
+  * MRのレビュー実施
+
+だいたい45分くらい作業したか?
+
+### よかったこと
+
+* うまくいかなかった場合、issueをたてて確認しながらすすめてくれているのがよい
+
+### 気になったこと
+
+* とくになし
+
+### こうすればもっとよくなるかも
+
+* とくになし
+
+### その他
+
+* TODO: lintianのstandards versionのやつは確認しておこう
+  * => lintianは修正されているがまだアップロードされていないだけ
+
+### 日報の使用時間
+
+3分
+
 ## 2021-08-31
 
 ### やったこと
