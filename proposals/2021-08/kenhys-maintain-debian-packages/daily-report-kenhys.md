@@ -7,6 +7,90 @@ title: 日報 - kenhys
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
 
+## 2021-09-03
+
+### やったこと
+
+* https://salsa.debian.org/go-team/packages/golang-github-0xax-notificator/-/issues/1
+  * ITPのメールの文面をレビューした
+* https://salsa.debian.org/go-team/packages/golang-github-0xax-notificator/-/merge_requests/1
+  * MRのレビューした
+* https://salsa.debian.org/go-team/packages/golang-github-lithammer-fuzzysearch/-/issues/4
+  * lintianとpiupartsでチェックしてコメント
+* https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/1
+  * ITPのメールの文面のレビュー
+* https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/2
+  * テストに失敗についてコメント
+* https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/merge_requests/1
+  * マージリクエストにコメント
+* https://salsa.debian.org/go-team/packages/slack-term/-/issues/2
+  * ITPのメールの文面のレビュー
+* https://salsa.debian.org/go-team/packages/slack-term/-/issues/3
+  * どっちのライブラリーをパッケージ化すべきかきまったので閉じた
+* https://salsa.debian.org/go-team/packages/termui/-/issues/2
+  * errorneousboart/termuiを採用すべきなので閉じた
+
+だいたい1hくらい作業した
+
+### よかったこと
+
+* だんだん作業に慣れてきていそうにみえる
+
+### 気になったこと
+
+* 1時とかに作業しているっぽいけど大丈夫だろうか
+
+### こうすればもっとよくなるかも
+
+* DEBEMAILの設定は案内していなかったかも。
+  * https://www.debian.org/doc/manuals/debmake-doc/ch03.en.html
+
+### その他
+
+* dh-make-golangまたバグ踏んだ気がしている。あとで報告しておくか。
+
+### 日報の使用時間
+
+5分
+
+## 2021-09-02
+
+### やったこと
+
+* https://salsa.debian.org/go-team/packages/golang-github-0xax-notificator/-/issues/2
+  * dh-make-golang 0.5.0を使っていなのが原因なのでその旨コメント
+* https://salsa.debian.org/go-team/packages/termui/-/issues/3
+  * プロジェクト名が正しくない、はそのとおり。ただリネームするにしてもどっちを採用するかは決めないといけない
+* https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/1
+  * ITPのレビューをした
+* https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/2
+  * テストに関してコメント
+* https://salsa.debian.org/go-team/packages/slack-term/-/merge_requests/1
+  * MRのレビュー実施
+
+だいたい45分くらい作業したか?
+
+### よかったこと
+
+* うまくいかなかった場合、issueをたてて確認しながらすすめてくれているのがよい
+
+### 気になったこと
+
+* とくになし
+
+### こうすればもっとよくなるかも
+
+* とくになし
+
+### その他
+
+* TODO: lintianのstandards versionのやつは確認しておこう
+  * => lintianは修正されているがまだアップロードされていないだけ
+
+### 日報の使用時間
+
+3分
+
 ## 2021-08-31
 
 ### やったこと
