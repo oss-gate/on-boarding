@@ -7,6 +7,43 @@ title: 日報 - kenhys
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
 
+## 2021-09-04
+
+### やったこと
+
+* https://salsa.debian.org/go-team/packages/slack-term/-/issues/2
+  * ITPの文面のレビュー
+* https://salsa.debian.org/go-team/packages/golang-github-0xax-notificator/-/issues/1
+  * ITPの文面のレビュー
+* https://salsa.debian.org/go-team/packages/golang-github-0xax-notificator/-/merge_requests/1
+  * MRのレビュー
+* https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/merge_requests/1
+  * MRレビューしてマージ
+* https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/1
+  * ITPメール投げたようなので閉じた
+
+だいたい45分くらい作業した
+
+### よかったこと
+
+* slack-go-slackもITPまでこぎつけた
+
+### 気になったこと
+
+* とくになし
+
+### こうすればもっとよくなるかも
+
+* とくになし
+
+### その他
+
+* dh-make-golangにオプションがいろいろあることを知ったmake -type libとか指定もできる。
+
+### 日報の使用時間
+
+3分
+
 ## 2021-09-03
 
 ### やったこと
