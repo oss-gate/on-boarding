@@ -55,6 +55,7 @@ Debianでは[Salsa](https://salsa.debian.org)にパッケージのソースを�
 また、パッケージのビルドにはgit-buildpackage(1)がよく使われています。
 
 クリーンな環境でビルドできることが必要なので、その環境の整え方を説明します。
+なお、今回はpbuilderと組合わせて使う前提とします。
 
 ### ~/.gbpを設定する
 
@@ -104,6 +105,32 @@ filter = [
 [dch]
 # ignore merge commit messages
 git-log = --no-merges
+```
+
+### ~/.devscriptsを設定する
+
+
+パッケージに対してGPGで署名するときに必要な設定は以下のとおりです。
+~/.devscriptsにあなたのGPG鍵のIDを設定します。
+
+gpg --list-secret-keysで鍵のIDがわかります。
+
+```
+DEBSIGN_KEYID=Your_GPG_keyID
+```
+
+参考: https://www.debian.org/doc/manuals/maint-guide/build.ja.html
+
+
+### ~/.bashrcなどへのEmailアドレスの設定
+
+環境変数DEBEMAILとDEBFULLNAMEを設定します。
+これはdchでdebian/changelogエントリを更新する際に使われます。
+
+```
+DEBEMAIL="your.email.address@example.org"
+DEBFULLNAME="Firstname Lastname"
+export DEBEMAIL DEBFULLNAME
 ```
 
 ### pbuilderの初期イメージを作成する
