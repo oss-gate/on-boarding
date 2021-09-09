@@ -128,7 +128,7 @@ $ sudo apt install screen
 $ sudo chmod u+s /usr/bin/screen
 $ sudo chmod 755 /var/run/screen
 $ cp /etc/screenrc ~/.screenrc
-$ cat <<EOF >>.screenrc
+$ cat <<EOF >> ~/.screenrc
 escape ^Tt
 bind windowlist -b
 multiuser on
@@ -148,6 +148,9 @@ guest$ screen -x owner/ossgate
 ```
 
 `guest`はossgateセッションに接続します。これでターミナルを共有して作業することができます。
+
+もし、共有がうまくできないときは、`~/.screenrc` の `acladd` の対象ユーザー名が共有対象の
+ユーザー名になっているかを確認してください。
 
 # 作業場所
 
