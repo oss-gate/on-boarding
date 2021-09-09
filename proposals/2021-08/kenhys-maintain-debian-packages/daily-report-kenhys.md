@@ -24,6 +24,8 @@ title: 日報 - kenhys
 * https://salsa.debian.org/go-team/packages/slack-term/-/merge_requests/1
   * MRのレビュー実施
 
+1hくらい作業した
+
 ### よかったこと
 
 * とくになし
