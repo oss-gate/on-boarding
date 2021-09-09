@@ -12,11 +12,11 @@ title: 日報 - kenhys
 ### やったこと
 
 * screenでターミナルの共有 acladdを間違えていてはまった
-* DEBEMAILなどの設定
-* 既定のエディターの設定の変更
-* DEBSIGN_KEYID="Your_GPG_keyID"の設定(これがないとdebuildでsignできない)
-* debuild -k指定してあげる必要があった。
-* golang-github-erroneousboat-termuiのリポジトリパス変更
+* DEBEMAILなどの設定のフォロー
+* 既定のエディターの設定の変更のフォロー
+* DEBSIGN_KEYID="Your_GPG_keyID"の設定(これがないとdebuildでsignできない)の設定について説明
+  * debuild -k指定してあげる必要があった。
+* golang-github-erroneousboat-termuiのリポジトリパス変更などの整備
 
 ### よかったこと
 
@@ -24,12 +24,13 @@ title: 日報 - kenhys
 
 ### 気になったこと
 
-* screenでの共有.screenrcの中身でaclのところがちゃんと実ユーザー名に切り替わっているかを確認するとよい
+* とくになし
 
 ### こうすればもっとよくなるかも
 
-* DEBSIGN_KEYIDが効いてない感じだったのはなんでだか確認しておきたい(gpgでの署名も通しでチェックしておくとよい)
-* デフォルトのエディタはnanoなのは変えておきたい
+* screenでの共有.screenrcの中身でaclのところがちゃんと実ユーザー名に切り替わっているかを確認するとよかった
+* DEBSIGN_KEYIDが効いてない感じだったのはなんでだか確認しておきたい(gpgでの署名も通しでやっぱりチェックしておくとよい)
+* デフォルトのエディタはnanoなのは一緒に作業する人にもよるけど変えておくのをおすすめしたい
 
 ### その他
 
