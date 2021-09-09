@@ -7,6 +7,43 @@ title: 日報 - kenhys
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
 
+## 2021-09-09
+
+### やったこと
+
+* referencesの更新
+* salsaのissueやMRの進行状況の確認
+* https://salsa.debian.org/go-team/packages/golang-github-0xax-notificator/-/issues/1
+  * ITP済んでいるので閉じた
+* https://salsa.debian.org/go-team/packages/golang-github-erroneousboat-termui/-/issues/1
+  * ITPの文面のレビュー実施
+* https://salsa.debian.org/go-team/packages/golang-github-erroneousboat-termui/-/merge_requests/1
+  * MRのレビュー実施
+* https://salsa.debian.org/go-team/packages/golang-github-lithammer-fuzzysearch/-/issues/5
+  * fuzzysearchのタグに関するissueを立てた
+* https://salsa.debian.org/go-team/packages/slack-term/-/merge_requests/1
+  * MRのレビュー実施
+
+### よかったこと
+
+* とくになし
+
+### 気になったこと
+
+* とくになし
+
+### こうすればもっとよくなるかも
+
+* コミットメッセージはもうちょっと意味のあるものを書くと良いというのを伝えたほうがよさそう
+
+### その他
+
+* とくになし
+
+### 日報の使用時間
+
+3分
+
 ## 2021-09-07
 
 ### やったこと
