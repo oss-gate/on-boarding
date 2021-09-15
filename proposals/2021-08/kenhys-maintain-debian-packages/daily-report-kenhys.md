@@ -7,6 +7,38 @@ title: 日報 - kenhys
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
 
+## 2021-09-15
+
+### やったこと
+
+* https://salsa.debian.org/go-team/packages/golang-github-erroneousboat-termui/-/issues/1
+  * termuiのITPのメール送信のフォロー
+* https://salsa.debian.org/go-team/packages/slack-term/-/issues/2
+  * slack-termのITPのメール送信のフォロー
+* https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/2
+  * テストが失敗する問題の調査
+* コミットメッセージはもうちょっと意味のあるものを書くと良いというのを伝えた
+
+### よかったこと
+
+* パッケージングあるあるのテストで詰まる問題を一緒に調査するという経験をした
+
+### 気になったこと
+
+* とくになし
+
+### こうすればもっとよくなるかも
+
+* とくになし
+
+### その他
+
+* TODO: テストの実行時間を伸ばして変化があるか試す
+
+### 日報の使用時間
+
+3分
+
 ## 2021-09-09
 
 ### やったこと
