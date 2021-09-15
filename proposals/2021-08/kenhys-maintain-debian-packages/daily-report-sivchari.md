@@ -6,6 +6,34 @@ title: 日報 - sivchari
 <!-- ↑の${ID}は自分のGitHubのIDに置き換える。例：日報 - kenhys -->
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
+## 2021-09-15
+
+### やったこと
+
+  * nnotificatorのbug reportまで
+  * slack-goのbug reportまで
+  * term-uiのbug reportまで
+  * slack-termのbug reportまで
+  * slack-termのITP提出
+  * term-uiのITP提出
+
+### よかったこと
+
+  * 諸々の体裁が整ってbuildpkgまでいけてる
+
+### こうすればもっとよくなるかも
+
+  * slack-goのtestがなぜか落ちてる
+  * notificatorのexampleが相対パスで取って落ちていたので修正する
+
+### その他
+
+  * patch pr出す
+
+### 日報の使用時間
+
+5分
+
 ## 2021-09-07
 
 ### やったこと
