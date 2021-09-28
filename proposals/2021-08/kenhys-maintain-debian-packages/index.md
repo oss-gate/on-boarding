@@ -18,6 +18,11 @@ title: debパッケージのメンテナンスやそれを支えるシステム�
 
 * [支援時に共有したリンクなどのまとめ]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/references-2021-08.md %})
 
+### ミーティングの記録
+
+* [初回のミーティングメモ (8/11)]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/meeting-2021-08-11.md %})
+* [中間のふりかえりメモ (8/31)]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/meeting-2021-08-31.md %})
+
 ## <span id="mentor">先輩の名前</span>
 
 林健太郎
