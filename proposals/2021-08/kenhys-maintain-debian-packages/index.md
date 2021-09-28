@@ -14,6 +14,10 @@ title: debパッケージのメンテナンスやそれを支えるシステム�
   * [sivchari]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/daily-report-sivchari.md %})
   * [yoshimotoyuk]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/daily-report-yoshimotoyuk.md %})
 
+### 参考資料
+
+* [支援時に共有したリンクなどのまとめ]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/references-2021-08.md %})
+
 ## <span id="mentor">先輩の名前</span>
 
 林健太郎
