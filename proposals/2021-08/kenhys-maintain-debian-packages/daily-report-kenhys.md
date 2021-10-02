@@ -7,6 +7,35 @@ title: 日報 - kenhys
 
 <!-- 新しい日付を上に書く。つまり、追記するときは上に追記する。 -->
 
+## 2021-10-02
+
+### やったこと
+
+* https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/4
+  * repackに関するIssueを起票
+* references-2021-08.mdにrepackに関して説明を追加した
+
+45分くらい作業した
+
+### よかったこと
+
+* uscanが勝手にrepackまで実行してくれることをしれたこと
+
+### 気になったこと
+
+* とくになし
+
+### こうすればもっとよくなるかも
+
+* とくになし
+
+### その他
+
+* TODO: repackのよいやりかたについては確定させておきたい
+
+### 日報の使用時間
+
+3分
 
 ## 2021-09-30
 
