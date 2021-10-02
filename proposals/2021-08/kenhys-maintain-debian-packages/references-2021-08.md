@@ -196,6 +196,49 @@ guest$ screen -x owner/ossgate
 
 * https://mentors.debian.net/
 
+# lintianメッセージへの対処の仕方について
+
+## source-ships-excluded-file debian/copyright
+
+```
+E: golang-github-slack-go-slack source: source-ships-excluded-file debian/copyright vendor/github.com/davecgh/go-spew/spew/bypass.go
+N:
+```
+
+vendor/以下にdebian/copyrightで含めるべきでないと明記したファイルが含まれています。
+
+```
+Files-Excluded:
+  vendor
+```
+
+Debianパッケージでは、依存するライブラリーはそれぞれわけてパッケージングすることになっています。
+システムで複数の同じライブラリーがあちこちに含まれてしまうと、メンテナンスのコストがかかるためです。
+
+この場合、含めるべきでないファイルを除外してパッケージングする必要があります。
+これを行うためには、除外済みのアーカイブを作成し、インポートするのが簡単です。
+uscanを使うと、アーカイブを作成できます。
+
+```
+% cd golang-github-slack-go-slack/
+% uscan --download-current-version
+uscan: Newest version of golang-github-slack-go-slack on remote site is 0.9.4, specified download version is 0.9.4
+Successfully repacked ../golang-github-slack-go-slack-0.9.4.tar.gz as ../golang-github-slack-go-slack_0.9.4+ds1.orig.tar.xz, deleting 78 files from it.
+```
+
+アーカイブが作成できたら、インポートしなおします。
+
+```
+% git checkout debian/sid
+% gbp import-orig ../golang-github-slack-go-slack_0.9.4+ds1.orig.tar.xz
+```
+
+インポートできたら、`debian/changelog` のバージョンを変更します。
+
+たとえば、上記のように`0.9.4+ds1-1`とします。`+ds`はソースコードの一部を削除した場合に付与します。
+`+ds1`だとアーカイブを1度再生成しなおしたことを意味します。
+(このバージョンのつけかたにはいくつか流派があります。)
+
 # 参考資料
 
 ## Debianでのパッケージングの流れを把握するための記事
