@@ -80,4 +80,4 @@ OSS Gateオンボーディングはある程度短い期間に集中的に実施
   * おおよそ1ヶ月に1回および支援期間の最後に新人・先輩・運営はふりかえりミーティングをする
     * 詳細：[ミーティング]({{ site.baseurl }}{% link process/meeting/index.md %})
   * 支援期間の最終日までに新人・先輩は今回の支援で目的をどれだけ達成したかをまとめて https://github.com/oss-gate/on-boarding にpushする
-    * 詳細：レポート（TODO）
+    * 詳細：[最終レポート]({{ site.baseurl }}{% link process/final-report/index.md %})
