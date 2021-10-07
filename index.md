@@ -15,8 +15,9 @@ OSS Gateオンボーディングはより深くOSS開発に取り組み始めた
 
 ## 進行中の開発対象
 
-  * 第1回：[debパッケージのメンテナンスやそれを支えるシステムの開発]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %})
+  * なし
 
 ## 過去の開発対象
 
+  * 第1回：[debパッケージのメンテナンスやそれを支えるシステムの開発]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %})
   * [Apache Arrow Flight GLibの開発]({{ site.baseurl }}{% link proposals/2021-07/kou-apache-arrow-flight-glib/index.md %})
