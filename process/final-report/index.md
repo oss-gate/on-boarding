@@ -41,3 +41,6 @@ title: 最終レポート
   * 気になったこと
   * 応募前の想定と実際の内容とのギャップ
   * 今後の新人・先輩・運営へのコメント
+
+第一回の先輩の例
+* [OSS Gateオンボーディング第一回を実施 - Debianコントリビューターを1人増やせた！]({{ site.baseurl }}/../report/on-boarding/2021/10/08/on-boarding-2021-08-kenhys.html)
