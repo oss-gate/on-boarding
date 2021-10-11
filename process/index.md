@@ -93,3 +93,10 @@ OSS Gateオンボーディングはある程度短い期間に集中的に実施
     * 詳細：[ミーティング]({{ site.baseurl }}{% link process/meeting/index.md %})
   * 支援期間の最終日までに新人・先輩は今回の支援で目的をどれだけ達成したかをまとめて https://github.com/oss-gate/on-boarding にpushする
     * 詳細：[最終レポート]({{ site.baseurl }}{% link process/final-report/index.md %})
+
+## 活動場所
+
+先輩と新人は対象OSSで標準的に使われている場所を使って、コミュニケーションをとります。
+これは「継続的に開発に参加する人」が普段やっていることを実際にやってもらうのが、対象OSSの開発に馴染んでもらうことにつながるからです。
+
+そのため、TwitterとかチャットツールのDMで個人的にやりとりするよりも、バグトラッキングシステムのIssueやPull Request、Merge Request、メーリングリストなどを活用してやりとりすることを推奨します。
