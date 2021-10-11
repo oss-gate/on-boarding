@@ -8,6 +8,10 @@ title: debパッケージのメンテナンスやそれを支えるシステム�
 進行中。<br>
 ご応募いただきました皆様ありがとうございました。
 
+### 最終レポート
+
+* [OSS Gateオンボーディング第一回を実施 - Debianコントリビューターを1人増やせた！](https://oss-gate.github.io/report/on-boarding/2021/10/08/on-boarding-2021-08-kenhys.html)
+
 ### 日報
 
   * [kenhys]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/daily-report-kenhys.md %})
