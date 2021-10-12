@@ -1,3 +1,8 @@
+---
+layout: page
+title: 第一回 OSS Gateオンボーディング debパッケージのメンテナンスやそれを支えるシステムの開発 関連資料
+---
+
 # OSS Gateオンボーディング題材
 
 * slack-termのパッケージング
