@@ -3,6 +3,7 @@ layout: page
 title: 質問と回答
 ---
 
+* [オンボーディングに関する問い合わせはどこにしたらよいですか？](#how-to-contact)
 * [新人目線ではOSS Gateワークショップとの違いはなんですか？](#what-is-the-difference-for-newbie)
 * [先輩目線ではOSS Gateワークショップとの違いはなんですか？](#what-is-the-difference-for-mentor)
 * [先輩は報酬が発生する時間に対象OSSの開発を進めてもいいですか？](#parallel-work)
@@ -12,6 +13,10 @@ title: 質問と回答
 * [アシスタントって必要ですか？](#necessity-of-assistant)
 * [スポンサーになるにはどうすればよいですか？](#how-to-become-sponsor)
 * [先輩役をするにはどうすればよいですか？](#how-to-become-mentor)
+
+## <span id="how-to-contact">オンボーディングに関する問い合わせはどこにしたらよいですか？</span>
+
+オンボーディングに関するお問い合わせは、 `on-boarding@oss-gate.org` まで個別にご相談ください。
 
 ## <span id="what-is-the-difference-for-newbie">新人目線ではOSS Gateワークショップとの違いはなんですか？</span>
 
