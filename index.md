@@ -20,4 +20,5 @@ OSS Gateオンボーディングはより深くOSS開発に取り組み始めた
 ## 過去の開発対象
 
   * 第1回：[debパッケージのメンテナンスやそれを支えるシステムの開発]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %})
+    * [OSS Gateオンボーディング第一回を実施 - Debianコントリビューターを1人増やせた！](https://oss-gate.github.io/report/on-boarding/2021/10/08/on-boarding-2021-08-kenhys.html)
   * [Apache Arrow Flight GLibの開発]({{ site.baseurl }}{% link proposals/2021-07/kou-apache-arrow-flight-glib/index.md %})
