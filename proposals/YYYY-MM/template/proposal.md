@@ -3,6 +3,19 @@ layout: page
 title: 募集要項のテンプレート
 ---
 
+* [先輩の名前](#mentor)
+* [開発対象の概要](#overview)
+* [対象OSSの開発に参加することで新人が得られること](#merit)
+* [期間終了時に新人に期待すること](#expectation)
+* [対象OSSと先輩の関わり](#about-mentor)
+* [進め方](#plan)
+* [応募の際に考えておいてほしいこと](#requirement)
+* [支援期間](#period)
+* [必要な報酬](#reward)
+* [募集期間](#application-period)
+* [応募方法](#how-to-apply)
+* [問い合わせ方法](#how-to-inquiry)
+
 ## <span id="mentor">先輩の名前</span>
 
 FIXME:
