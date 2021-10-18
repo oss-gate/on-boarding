@@ -95,7 +95,7 @@ OSS Gateオンボーディングはある程度短い期間に集中的に実施
 
   * 作業をした日は新人・アシスタント・先輩は日報を書く
     * 詳細：[日報]({{ site.baseurl }}{% link process/daily-report/index.md %})
-  * おおよそ1週間に1回以上は新人・先輩は現状共有ミーティングをする
+  * おおよそ1週間に1回以上は新人・先輩は現状共有ミーティングをする (一緒に作業する日が週1回ならその日に実施)
     * 詳細：[ミーティング]({{ site.baseurl }}{% link process/meeting/index.md %})
   * おおよそ1ヶ月に1回および支援期間の最後に新人・先輩・運営はふりかえりミーティングをする
     * 詳細：[ミーティング]({{ site.baseurl }}{% link process/meeting/index.md %})
