@@ -19,7 +19,7 @@ OSS Gateオンボーディングはある程度短い期間に集中的に実施
 
   1. 運営：定期的に先輩向け募集要項の書き方説明会を開催
      * Webサイトの説明だけで十分理解できた先輩は参加する必要はない
-  2. 先輩：開発者が増えて欲しいOSS用の募集要項を書いて[プルリクエストを出す](https://github.com/oss-gate/on-boarding/pulls)
+  2. 先輩：開発者が増えて欲しいOSS用の募集要項を書いて[プルリクエストを出す](https://github.com/oss-gate/on-boarding/pulls) ([参考:プルリクエストのテンプレート](https://github.com/oss-gate/on-boarding/blob/main/proposals/YYYY-MM/template/proposal.md))
   3. 先輩・運営：適切に新人に内容を伝えるために募集要項のブラッシュアップ
   4. 先輩・運営：適切な新人に情報が届くように募集要項を告知
   5. 運営：定期的に新人向けのOSS Gateオンボーディング説明会を開催
