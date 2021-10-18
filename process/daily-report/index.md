@@ -36,6 +36,12 @@ OSS Gateオンボーディングの主要なプロセスは新人と先輩との
 
 持続的に参照可能にするため、書いた日報は`https://github.com/oss-gate/on-boarding/tree/main/proposals/${期間}/${募集要項ID}/daily-report-${ID}.md`にpushします。たとえば、 https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/ の先輩が書く日報は https://github.com/oss-gate/on-boarding/tree/main/proposals/2021-08/kenhys-maintain-debian-packages/daily-report-kenhys.md にpushします。新人・先輩は https://github.com/oss-gate/on-boarding/ にpushする権限があるので直接pushできます。
 
+なお、一緒に作業すると決めた日以外にも個人的に作業を進めるときもあるでしょう。
+そのときも日報を忘れずに書いてください。
+
+一緒に作業する日は作業時間が決まっていますが、個人的に作業する日は作業時間が決まっていないはずです。
+実際にどれくらい作業したか、日報に時間も記録しておくとよいでしょう。あとでその作業にどれくらいかけていたかをふりかえるときに役立つはずです。
+
 テンプレートは次の通りです。今後、OSS Gateオンボーディングを実施した知見を活かしてテンプレートの中身は改善予定です。
 
 https://github.com/oss-gate/on-boarding/tree/main/process/daily-report/template.md に同じ内容のファイルがあるので最初に日報を書くときはこのファイルをコピーして使ってください。
