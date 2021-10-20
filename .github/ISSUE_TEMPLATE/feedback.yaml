@@ -1,0 +1,23 @@
+name: OSS Gateオンボーディングへのフィードバック
+description: https://oss-gate.github.io/on-boarding/ へのフィードバック
+body:
+  - type: markdown
+    attributes:
+      value: |
+        OSS Gateオンボーディングに関する個別の相談は on-boarding@oss-gate.org にて受け付けています。
+  - type: textarea
+    id: description
+    attributes:
+      label: OSS Gateオンボーディングに関して気づいた問題
+      description: |
+        * 例: URL: ... に誤字があった。
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: OSS Gateオンボーディングの問題に対して期待する状態
+      description: |
+        * 例: URL: ... の誤字が修正された。
+    validations:
+      required: true

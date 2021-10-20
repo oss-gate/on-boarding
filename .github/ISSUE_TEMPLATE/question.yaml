@@ -1,0 +1,15 @@
+name: OSS Gateオンボーディングに関する質問
+description: OSS Gateオンボーディングに関して聞いてみたいこと
+body:
+  - type: markdown
+    attributes:
+      value: |
+        OSS Gateオンボーディングに関する個別の相談は on-boarding@oss-gate.org にて受け付けています。
+  - type: textarea
+    id: description
+    attributes:
+      label: OSS Gateにオンボーディングに関して聞きたいこと
+      description: |
+        OSS Gateにオンボーディングに関して聞きたいことはこちらに記入してください。
+    validations:
+      required: true
