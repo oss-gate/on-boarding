@@ -6,7 +6,7 @@ body:
       value: |
         OSS Gateオンボーディングに関する個別の相談は on-boarding@oss-gate.org にて受け付けています。
   - type: textarea
-    id: description
+    id: prerequisite
     attributes:
       label: 前提条件
       description: |
@@ -22,7 +22,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: description
+    id: goal
     attributes:
       label: 完了条件
       description: |
