@@ -1,0 +1,31 @@
+name: OSS Gateオンボーディングに関するタスク
+description: OSS Gateオンボーディングに関連するタスクを登録する
+body:
+  - type: markdown
+    attributes:
+      value: |
+        OSS Gateオンボーディングに関する個別の相談は on-boarding@oss-gate.org にて受け付けています。
+  - type: textarea
+    id: description
+    attributes:
+      label: 前提条件
+      description: |
+        タスクの背景や前提条件を記載する
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 実施内容
+      description: |
+        このissueの対象とする作業内容を記載する
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 完了条件
+      description: |
+        なにができたら完了とするかを記載する
+    validations:
+      required: true
