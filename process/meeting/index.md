@@ -73,6 +73,16 @@ OSS Gateオンボーディングの最後には必ずふりかえりミーティ
   5. ふりかえった結果、今回および今後のOSS Gateオンボーディングの進め方の改善につながりそうな知見がないかを確認
   6. 5.の知見をどう活かせばよいか相談
 
+進行役・ご意見番は次の観点でコメントします。
+
+* 先輩と新人がよいと思ったこと
+  * 2人ともよいと思ったことは、継続したり、今後に活かせる可能性がありそうです。
+* 先輩と新人で感じ方が違ったこと
+  * 新人さんがうまくできないと感じていても、実はOSS開発ではよくあることなので気にしなくて良い、ということもあります。先輩やご意見番・進行役はそのあたりををフォローしてあげましょう
+* 新人さんに何らかの変化があったとき
+  * 〇〇ができた、は続けていくための力になるポイントです。
+  * 〇〇でつまった、は今後また新しい人が参加するときに改善するポイントになります。そういったことに遭遇するのもOSS開発では自然なことで、なおしたりしながらやっていくということを伝えましょう
+
 ふりかえりミーティングの内容は持続的に参照可能にするために`https://github.com/oss-gate/on-boarding/tree/main/proposals/${期間}/${募集要項ID}/meeting-${YYYY}-${MM}-$DD}.md`にpushします。たとえば、 https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/ の2021-08-11のミーティングの内容は https://github.com/oss-gate/on-boarding/tree/main/proposals/2021-08/kenhys-maintain-debian-packages/meeting-2021-08-11.md にpushします。新人・先輩・運営は https://github.com/oss-gate/on-boarding/ にpushする権限があるので直接pushできます。
 
 ふりかえりミーティングの内容は運営がまとめます。
