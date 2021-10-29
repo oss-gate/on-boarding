@@ -1,5 +1,6 @@
 name: OSS Gateオンボーディング 現状共有ミーティング
 description: OSS Gateオンボーディングの現状共有ミーティングのチケットを登録する
+title: "20YY-MM: MM/DDの現状共有ミーティング (20YY-MMは対象となるオンボーディングの開始時期)"
 body:
   - type: markdown
     attributes:
@@ -17,6 +18,9 @@ body:
       description: |
         作業状況をまとめて、現状共有ミーティングで確認します。
         いくつかタスクがあれば項目をリストアップしておくとよいでしょう。
+      placeholder: |
+        例:
+          * lithammer-fuzzysearch: ITP済み。
     validations:
       required: true
   - type: textarea
@@ -25,5 +29,9 @@ body:
       label: 今日の作業予定
       description: |
         当日実施を予定している内容をあらかじめ先輩と新人とで共有します。
+      placeholder: |
+        例:
+          * https://salsa.debian.org/go-team/packages/golang-github-erroneousboat-termui/-/issues/1
+            * termuiのITPをすすめる(あとはだすだけ)
     validations:
       required: true
