@@ -1,0 +1,29 @@
+name: OSS Gateオンボーディング 現状共有ミーティング
+description: OSS Gateオンボーディングの現状共有ミーティングのチケットを登録する
+body:
+  - type: markdown
+    attributes:
+      value: |
+        OSS Gateオンボーディングで現状共有ミーティングを円滑におこなうためのテンプレートです。
+        現状共有ミーティングでは次のことを実施します。
+
+        * 作業状況の確認
+        * 今日の作業予定の確認
+        * 質疑応答
+  - type: textarea
+    id: prerequisite
+    attributes:
+      label: 作業状況の確認
+      description: |
+        作業状況をまとめて、現状共有ミーティングで確認します。
+        いくつかタスクがあれば項目をリストアップしておくとよいでしょう。
+    validations:
+      required: true
+  - type: textarea
+    id: todo
+    attributes:
+      label: 今日の作業予定
+      description: |
+        当日実施を予定している内容をあらかじめ先輩と新人とで共有します。
+    validations:
+      required: true
