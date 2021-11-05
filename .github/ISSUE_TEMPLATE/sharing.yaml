@@ -10,7 +10,7 @@ body:
 
         * 作業状況の確認
         * 今日の作業予定の確認
-        * 質疑応答
+        * 共有したいこと
   - type: textarea
     id: prerequisite
     attributes:
@@ -33,5 +33,17 @@ body:
         例:
           * https://salsa.debian.org/go-team/packages/golang-github-erroneousboat-termui/-/issues/1
             * termuiのITPをすすめる(あとはだすだけ)
+    validations:
+      required: true
+  - type: textarea
+    id: tips
+    attributes:
+      label: 共有したいこと
+      description: |
+        新人さんが疑問に思っていることや、先輩が伝えておきたいトピックスを共有します。
+      placeholder: |
+        例:
+          * 〇〇をするのにどうしたらよいかわからない(新人)
+          * △△するには〇〇がおすすめ(先輩)
     validations:
       required: true
