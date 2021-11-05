@@ -23,7 +23,7 @@ title: 現状共有ミーティング
 
 一緒に作業するのが週1回なら、一緒に作業する日の冒頭で現状共有ミーティングを実施します。
 
-* 先輩は事前に「OSS Gateオンボーディング現状共有ミーティング」のチケットを起票します
+* 先輩は事前に[「OSS Gateオンボーディング現状共有ミーティング」のチケットを起票](https://github.com/oss-gate/on-boarding/issues/new?assignees=&labels=&template=sharing.yaml&title=20YY-MM%3A+MM%2FDD%E3%81%AE%E7%8F%BE%E7%8A%B6%E5%85%B1%E6%9C%89%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0+%2820YY-MM%E3%81%AF%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%AA%E3%82%8B%E3%82%AA%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E9%96%8B%E5%A7%8B%E6%99%82%E6%9C%9F%29)します
 
 現状共有ミーティングのチケットでは次の内容をまとめておきます。
 
