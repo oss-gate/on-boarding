@@ -48,13 +48,13 @@ OSS Gateオンボーディングはある程度短い期間に集中的に実施
   * 必要な報酬
   * 募集期間
 
-例：[Apache Arrow Flight GLibの開発]({{ site.baseurl }}{% link proposals/2021-07/kou-apache-arrow-flight-glib/index.md %})
+例：[debパッケージのメンテナンスやそれを支えるシステムの開発]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %})
 
-募集要項は`https://github.com/oss-gate/on-boarding/tree/main/proposals/${開始時期}/${先輩のID}-${募集要項のID}/index.md`に置きます。たとえば、↑の例では https://github.com/oss-gate/on-boarding/tree/main/proposals/2021-07/kou-apache-arrow-flight-glib/index.md になります。変数になっている部分はそれぞれ次の値になっています。
+募集要項は`https://github.com/oss-gate/on-boarding/tree/main/proposals/${開始時期}/${先輩のID}-${募集要項のID}/proposal.md`に置きます。たとえば、↑の例では https://github.com/oss-gate/on-boarding/tree/main/proposals/2021-08/kenhys-maintain-debian-packages/proposal.md になります。変数になっている部分はそれぞれ次の値になっています。
 
-  * 開始時期：`2021-07`
-  * 先輩のID：`kou`
-  * 募集要項のID：`apache-arrow-flight-glib`
+  * 開始時期：`2021-08`
+  * 先輩のID：`kenhys`
+  * 募集要項のID：`maintain-debian-packages`
 
 同じテーマで複数のパターンで募集してもよいです。
 なぜなら、応募者の興味やもっている知識・経験は様々であるためです。第一回の募集時には[3つのコース]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %}#overview)を用意しました。
