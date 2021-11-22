@@ -13,6 +13,12 @@ title: debパッケージのメンテナンスやそれを支えるシステム�
 * [OSS Gateオンボーディング第一回を実施 - Debianコントリビューターを1人増やせた！](https://oss-gate.github.io/report/on-boarding/2021/10/08/on-boarding-2021-08-kenhys.html)
 * [debianのパッケージングができるようになった夏](https://oss-gate.github.io/report/on-boarding/2021/11/20/on-boarding-2021-08-sivchari.html)
 
+### 成果発表会
+
+[オンライン開催：東京エリア・関西合同Debian勉強会（2021/11/21(日))](https://debianjp.connpass.com/event/226360/)にて実施しました。
+
+* [OSS Gateオンボーディング実施報告 - Debianプロジェクトを題材にした取り組みの紹介](https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-oss-gate-onboarding-202111/)
+
 ### 日報
 
   * [kenhys]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/daily-report-kenhys.md %})
