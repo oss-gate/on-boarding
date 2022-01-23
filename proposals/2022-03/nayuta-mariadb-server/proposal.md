@@ -22,7 +22,9 @@ title: MariaDB Server のバグ修正および機能開発
 
 ## <span id="overview">プロジェクトの概要</span>
 
-[MariaDB Server](https://github.com/MariaDB/server) のバグ修正・機能追加に取り組んでもらいます。MariaDB Server は、MariaDB Corporation/Foundation を中心として、コミュニティベースで開発されているオープンソースの RDBMS です。このプロジェクトでは、MariaDB Server のバグ修正および機能追加に取り組んでもらい、コミュニティに継続的に関わってくれる方を増やすことを目指します。
+[MariaDB Server](https://github.com/MariaDB/server) のバグ修正・機能追加に取り組んでもらいます。
+
+MariaDB Server は、MariaDB Corporation/Foundation を中心として、コミュニティベースで開発されているオープンソースの RDBMS です。日本国外には一定の MariaDB コントリビューターが存在しますが、残念なことに日本国内からはほとんどコントリビューションがないのが現状です。このプロジェクトでは、MariaDB Server のバグ修正および機能追加に取り組んでもらい、コミュニティに継続的に関わってくれる方を増やすことを目指します。
 
 ## <span id="merit">対象OSSの開発に参加することで新人が得られること</span>
 
@@ -58,7 +60,7 @@ MariaDB のバグ修正や機能追加に、継続的に取り組んでもらう
 
 ## <span id="requirement">応募の際に考えておいて欲しい事</span>
 
-初回のWebミーティングで具体的に取り組む内容を相談しながら決めますが、MariaDB のどのコンポーネントの開発に取り組みたいか考えておいてもらえると、内容をすんなり決められるのでよさそうです。応募の際に教えてもらえると助かります。
+初回のWebミーティングで具体的に取り組む課題を相談しながら決めますが、MariaDB のどのコンポーネントの開発に取り組みたいか考えておいてもらえると、課題を決める際の参考になります。希望のコンポーネントがある方は、応募の際に教えてください。
 
 ## <span id="period">支援期間</span>
 
