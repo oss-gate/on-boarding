@@ -45,4 +45,3 @@ FIXME: 関連する参考資料等があれば記載する。
 
 ## 募集要項
 * [MariaDB Server のバグ修正および機能開発]({{ site.baseurl }}{% link proposals/2022-03/nayuta-mariadb-server/proposal.md %})
-募集要項は `https://github.com/oss-gate/on-boarding/tree/main/proposals/${開始時期}/${先輩のID}-${募集要項のID}/proposal.md` に置く。
