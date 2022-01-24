@@ -61,7 +61,20 @@ MariaDB のバグ修正や機能追加に、継続的に取り組んでもらう
 
 ## <span id="requirement">応募の際に考えておいて欲しい事</span>
 
-初回のWebミーティングで具体的に取り組む課題を相談しながら決めますが、MariaDB のどのコンポーネントの開発に取り組みたいか考えておいてもらえると、課題を決める際の参考になります。希望のコンポーネントがある方は、応募の際に教えてください。
+初回のWebミーティングで具体的に取り組む課題を相談しながら決めます。MariaDB のどのコンポーネントの開発に取り組みたいか考えておいてもらえると、課題を決める際の参考になります。希望のコンポーネントがある方は、応募の際に教えてください。コンポーネントによっては希望にそえない場合があります。
+
+コンポーネント例（一部）:
+
+* Runtime (※)
+* Optimizer
+* Replication
+* Partitioning
+* InnoDB
+* Mroonga
+* Spider
+* …
+
+※ 他に引き受け手がないタスクはだいたい Rutime ということになってます。
 
 ## <span id="period">支援期間</span>
 
@@ -95,13 +108,13 @@ To: on-boarding@oss-gate.org
 Subject: 応募：MariaDB Server のバグ修正および機能開発
 
 名前:
-出部羅 伊庵
+門弟 まりあ
 
 対象募集要項のURL:
 {{ site.url }}{{ site.baseurl }}{% link proposals/2022-03/nayuta-mariadb-server/index.md %}
 
 応募動機:
-オープンソースのOS開発に興味があったから
+オープンソースの RDBMS 開発に興味があったから
 
 興味のあるコンポーネント:
 * Spider
