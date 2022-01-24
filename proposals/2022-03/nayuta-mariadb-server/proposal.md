@@ -93,7 +93,7 @@ MariaDB のバグ修正や機能追加に、継続的に取り組んでもらう
 
 下記事項を記載の上`on-boarding@oss-gate.org`にメールでご応募ください。
 
-  * 名前（GitHubのIDなどOSS Gateオンボーディング内で困らないものであれば本名でなくても構いません。
+  * 名前（GitHubのIDなどOSS Gateオンボーディング内で困らないものであれば本名でなくても構いません。）
   * 対象募集要項のURL：{{ site.url }}{{ site.baseurl }}{% link proposals/2022-03/nayuta-mariadb-server/index.md %}
   * MariaDB Server のどのコンポーネントに興味があるか（もしあれば）
   * 応募動機
