@@ -72,7 +72,7 @@ FIXME: 応募先となる窓口を記載します。
 
 下記事項を記載の上`on-boarding@oss-gate.org`にメールでご応募ください。
 
-  * 名前（GitHubのIDなどOSS Gateオンボーディング内で困らないものであれば本名でなくても構いません。
+  * 名前（GitHubのIDなどOSS Gateオンボーディング内で困らないものであれば本名でなくても構いません。）
   * 対象募集要項のURL：{{ site.url }}{{ site.baseurl }}{% link proposals/YYYY-MM/template/proposal.md %}
   * 募集対象のA～Cのどの開発をやってみたいか
   * 応募動機
