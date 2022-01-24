@@ -12,7 +12,7 @@ OSS Gateオンボーディングはより深くOSS開発に取り組み始めた
 
 ## 募集中の開発対象
 
-  * なし
+  * [MariaDB Server のバグ修正および機能開発]({{ site.baseurl }}{% link proposals/2022-03/mariadb-server/index.md %})
 
 ## 進行中の開発対象
 
