@@ -74,7 +74,7 @@ MariaDB のバグ修正や機能追加に、継続的に取り組んでもらう
 * Spider
 * …
 
-※ 他に引き受け手がないタスクはだいたい Rutime ということになってます。
+※ 他に引き受け手がないタスクはだいたい Runtime ということになってます。
 
 ## <span id="period">支援期間</span>
 
@@ -94,7 +94,7 @@ MariaDB のバグ修正や機能追加に、継続的に取り組んでもらう
 下記事項を記載の上`on-boarding@oss-gate.org`にメールでご応募ください。
 
   * 名前（GitHubのIDなどOSS Gateオンボーディング内で困らないものであれば本名でなくても構いません。
-  * 対象募集要項のURL：{{ site.url }}{{ site.baseurl }}{% link proposals/YYYY-MM/template/proposal.md %}
+  * 対象募集要項のURL：{{ site.url }}{{ site.baseurl }}{% link proposals/2022-03/nayuta-mariadb-server/index.md %}
   * MariaDB Server のどのコンポーネントに興味があるか（もしあれば）
   * 応募動機
   * 現時点での自分のOSS開発に関する知識・経験
