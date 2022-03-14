@@ -7,7 +7,13 @@ title: MariaDB Server のバグ修正および機能開発
 
 進行中
 
-たくさんのご応募ありがとうございました。現在、選考中です。
+たくさんのご応募ありがとうございました！
+
+
+### ミーティングの記録
+
+* [Introduction Meeting(3/3)]({{ site.baseurl }}{% link proposals/2022-03/nayuta-mariadb-server/2022-03-03-meeting.md %})
+
 
 <!-- 
 ### 最終レポート
@@ -26,16 +32,6 @@ FIXME: 先輩と新人の日報へのリンクを記載する。日報の書き�
 
 * 例: 第一回の先輩 [kenhys]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/daily-report-kenhys.md %})
 * 例: 第一回の新人 [sivchari]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/daily-report-sivchari.md %}))
-
-### ミーティングの記録
-
-FIXME: ふりかえりなどのミーティングの記録へのリンクを記載する。
-
-ミーティングの記録は `https://github.com/oss-gate/on-boarding/tree/main/proposals/${開始時期}/${先輩のID}-${募集要項のID}/meeting-YYYY-MM-DD.md` に置く。
-
-
-* 例: 第一回の [初回のミーティングメモ (8/11)]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/meeting-2021-08-11.md %})
-* 例: 第一回の [中間のふりかえりメモ (8/31)]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/meeting-2021-08-31.md %})
 
 ### 参考資料
 
