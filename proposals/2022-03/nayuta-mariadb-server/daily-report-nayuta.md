@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 日報 - nayuta
+title: 日報 - nayuta-yanagisawa
 ---
 
 ## 2022-04-08
