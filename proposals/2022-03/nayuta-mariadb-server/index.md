@@ -22,17 +22,13 @@ FIXME: 最終レポートへのリンクを記載する。
 最終レポートの書き方は [最終レポート]({{ site.baseurl }}{% link process/final-report/index.md %}) 参照のこと。最終レポートのテンプレートは用意せず自由形式とします。
 
 * 例: [第一回の先輩の最終レポートへのリンク](https://oss-gate.github.io/report/on-boarding/2021/10/08/on-boarding-2021-08-kenhys.html))
+--> 
 
-[](### 日報
+### 日報
+* [Nayuta]({{ site.baseurl }}{% proposals/2022-03/nayuta-mariadb-server/daily-report-nayuta.md %})
+* [NorioAkagi]({{ site.baseurl }}{% linkproposals/2022-03/nayuta-mariadb-server/daily-report-norakagi.md %})
 
-FIXME: 先輩と新人の日報へのリンクを記載する。日報の書き方は [日報]({{ site.baseurl }}{% link process/daily-report/index.md %}) 参照のこと。
-[日報のテンプレート]({{ site.baseurl }}{% link process/daily-report/template.md %}) をベースにするとよい。先輩、新人に限らず、運営やその他作業の様子を見ていた人が書いてもよい。
-
-日報の記録は `https://github.com/oss-gate/on-boarding/tree/main/proposals/${開始時期}/${先輩のID}-${募集要項のID}/daily-report-${参加者のID}.md` に置く。
-
-* 例: 第一回の先輩 [kenhys]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/daily-report-kenhys.md %})
-* 例: 第一回の新人 [sivchari]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/daily-report-sivchari.md %}))
-
+<!--
 ### 参考資料
 
 FIXME: 関連する参考資料等があれば記載する。
