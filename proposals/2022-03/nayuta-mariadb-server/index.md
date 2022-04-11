@@ -26,7 +26,7 @@ FIXME: 最終レポートへのリンクを記載する。
 
 ### 日報
 * [Nayuta]({{ site.baseurl }}{% link proposals/2022-03/nayuta-mariadb-server/daily-report-nayuta.md %})
-* [NorioAkagi]({{ site.baseurl }}{% link　proposals/2022-03/nayuta-mariadb-server/daily-report-norakagi.md %})
+* [NorioAkagi]({{ site.baseurl }}{% link proposals/2022-03/nayuta-mariadb-server/daily-report-norakagi.md %})
 
 
 ### 参考資料
