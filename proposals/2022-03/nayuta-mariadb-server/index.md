@@ -25,12 +25,16 @@ FIXME: 最終レポートへのリンクを記載する。
 --> 
 
 ### 日報
-* [Nayuta]({{ site.baseurl }}{% proposals/2022-03/nayuta-mariadb-server/daily-report-nayuta.md %})
-* [NorioAkagi]({{ site.baseurl }}{% linkproposals/2022-03/nayuta-mariadb-server/daily-report-norakagi.md %})
+* [Nayuta]({{ site.baseurl }}{% link proposals/2022-03/nayuta-mariadb-server/daily-report-nayuta.md %})
+* [NorioAkagi]({{ site.baseurl }}{% link　proposals/2022-03/nayuta-mariadb-server/daily-report-norakagi.md %})
+
+
+### 参考資料
+* https://nayuta-yanagisawa.hatenablog.com/entry/debugging-mysql-mariadb-1
+* https://nayuta-yanagisawa.hatenablog.com/entry/debugging-mysql-mariadb-2
+
 
 <!--
-### 参考資料
-
 FIXME: 関連する参考資料等があれば記載する。
 
 * 例: 第一回の [関連資料]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/references-2021-08.md %})
