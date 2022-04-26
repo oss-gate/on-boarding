@@ -3,6 +3,44 @@ layout: page
 title: 日報 - nayuta-yanagisawa
 ---
 
+## 2022-04-26
+
+### やったこと
+
+比較的平易そうな issue を選んで、デバッグの取っ掛かりの部分を一緒にやる。続きは宿題。
+
+* https://jira.mariadb.org/browse/MDEV-28315
+* https://jira.mariadb.org/browse/MDEV-27892
+* https://jira.mariadb.org/browse/MDEV-26508
+* https://jira.mariadb.org/browse/MDEV-25784
+* https://jira.mariadb.org/browse/MDEV-21799
+
+1時間
+
+### よかったこと
+
+* たくさんの issue 見られた。
+* 初手のアプローチを色々紹介できた。
+
+### 気になったこと
+
+特になし。
+
+### こうすればもっとよくなるかも
+
+特になし。
+
+### その他
+
+宿題
+
+* akagi: 上で挙げた issue のうちできそうなものをやって PR 出す。
+* nayuta: https://jira.mariadb.org/browse/MDEV-27313 の debug。
+
+### 日報の使用時間
+
+5分
+
 ## 2022-04-15
 
 ### やったこと
