@@ -45,7 +45,7 @@ OSS Gateオンボーディングはある程度短い期間に集中的に実施
   * 進め方（後述）
   * 期間終了時に先輩が新人に期待すること
   * 支援期間
-  * 必要な報酬
+  * 必要な作業時間
   * 募集期間
 
 例：[debパッケージのメンテナンスやそれを支えるシステムの開発]({{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %})
