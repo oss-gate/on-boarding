@@ -14,6 +14,7 @@ title: MariaDB Server のバグ修正および機能開発
 
 * [イントロダクションミーティング - 2022-03-03]({{ site.baseurl }}{% link proposals/2022-03/nayuta-mariadb-server/2022-03-03-meeting.md %})
 * [ふりかえりミーティング - 2022-05-13]({{ site.baseurl }}{% link proposals/2022-03/nayuta-mariadb-server/2022-05-13-meeting.md %})
+* [ふりかえりミーティング - 2022-08-18]({{ site.baseurl }}{% link proposals/2022-03/nayuta-mariadb-server/2022-08-18-meeting.md %})
 
 
 <!-- 
